@@ -14,7 +14,7 @@ backports.ssl-match-hostname==3.5.0.1
 beautifulsoup4==4.6.0
 bitarray==0.8.1
 bkcharts==0.2
-bleach==2.1.2
+bleach==3.1.4
 bokeh==0.12.13
 boto==2.48.0
 bs4==0.0.1
